@@ -2,6 +2,8 @@
 
 *Příprava na jednotnou přijímací zkoušku · 9. třída*
 
+Materiály pro přijímačky po 5. třídě (osmiletá gymnázia) jsou v samostatném repu [prijimacky-cermat-5-trida](https://github.com/zdenekmach/prijimacky-cermat-5-trida).
+
 ## Ke stažení
 
 **[Stáhnout všechno najednou (ZIP)](https://github.com/zdenekmach/prijimacky-cermat/releases/latest/download/prijimacky-cermat-cestina-matematika.zip)**
